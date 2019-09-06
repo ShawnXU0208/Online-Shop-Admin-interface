@@ -30,7 +30,7 @@ Press "Add multiple" will lead you to the page for creating multiple products fr
 Users need to select the csv file with the same format as the example.csv.
 The images' name choosed have to be the same as those in "image" fileds of .csv file
 
-# ![add multiple products](https://github.com/ShawnXU0208/Online-Shop-Admin-interface/blob/master/image/add-multiple.gif?raw=true)
+# ![add multiple products](https://github.com/ShawnXU0208/Online-Shop-Admin-interface/blob/master/image/2.gif?raw=true)
 
 
 ## Browser Support
